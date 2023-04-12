@@ -1,0 +1,15 @@
+C:\Users\Administrator\Downloads\JJJ-main\JJJ2\bin\Debug\net6.0\JJJ2.exe
+C:\Users\Administrator\Downloads\JJJ-main\JJJ2\bin\Debug\net6.0\JJJ2.deps.json
+C:\Users\Administrator\Downloads\JJJ-main\JJJ2\bin\Debug\net6.0\JJJ2.runtimeconfig.json
+C:\Users\Administrator\Downloads\JJJ-main\JJJ2\bin\Debug\net6.0\JJJ2.dll
+C:\Users\Administrator\Downloads\JJJ-main\JJJ2\bin\Debug\net6.0\JJJ2.pdb
+C:\Users\Administrator\Downloads\JJJ-main\JJJ2\obj\Debug\net6.0\JJJ2.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\JJJ-main\JJJ2\obj\Debug\net6.0\JJJ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\JJJ-main\JJJ2\obj\Debug\net6.0\JJJ2.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\JJJ-main\JJJ2\obj\Debug\net6.0\JJJ2.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\JJJ-main\JJJ2\obj\Debug\net6.0\JJJ2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\JJJ-main\JJJ2\obj\Debug\net6.0\JJJ2.dll
+C:\Users\Administrator\Downloads\JJJ-main\JJJ2\obj\Debug\net6.0\refint\JJJ2.dll
+C:\Users\Administrator\Downloads\JJJ-main\JJJ2\obj\Debug\net6.0\JJJ2.pdb
+C:\Users\Administrator\Downloads\JJJ-main\JJJ2\obj\Debug\net6.0\JJJ2.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\JJJ-main\JJJ2\obj\Debug\net6.0\ref\JJJ2.dll
